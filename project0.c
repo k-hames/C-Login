@@ -4,7 +4,7 @@
  Author      : Kevin Hames
  Version     :
  Copyright   : Copyright 2016
- Description : Hello World in C, Ansi-style
+ Description : Basic Login program in C, Ansi-style
  ============================================================================
  */
 
